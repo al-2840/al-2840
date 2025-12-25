@@ -15,6 +15,10 @@
 - [**Portfolio Junior**](https://github.com/al-2840/portfolio-junior)  
   A simple TypeScript-based portfolio layout — part of my journey into web development and UI/UX.
 
+- [**APK Progres**](https://github.com/al-2840/APK/blob/main/APK.py)  
+  A Python-based application prototype — currently in progress, focusing on process workflows and modular design.  
+  Serves as an experimental build to explore structured coding practices and step-by-step feature development.
+
 ---
 
 ## 🌱 Learning Journey
